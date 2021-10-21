@@ -22,9 +22,13 @@ yarn create next-app --example with-tailwindcss with-tailwindcss-app
 ```
 
 ## Install node modules using
-
+ 
+```bash
 npm i
+```
 
 ## Run the app using following command
 
+```bash
 npm run dev
+```
